@@ -1,4 +1,4 @@
-# READ-ME
+# README
 
 It is just a project for practice.
 
